@@ -173,15 +173,15 @@ An academic robotics project focused on mobile robot simulation and intelligent 
 </div>
 <!-- ==================== CONTRIBUTION GRAPH ==================== -->
 
-## 🐍 Contribution Activity
+
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdertalibi-gif&bg_color=020617&color=38BDF8&line=06B6D4&point=FFFFFF&area=true&hide_border=true&custom_title=My%20Coding%20Activity" width="100%" alt="Contribution graph"/>
-
-<img src="https://raw.githubusercontent.com/abdertalibi-gif/abdertalibi-gif/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation"/>
+<img src="https://ghchart.rshah.org/38BDF8/abdertalibi-gif" alt="Abderrahim Talibi GitHub Contribution Calendar" width="100%"/>
 
 </div>
+
 
 ---
 
