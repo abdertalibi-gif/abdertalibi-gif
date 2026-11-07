@@ -158,3 +158,11 @@ I'm always interested in learning, collaborating, and working on meaningful tech
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:0F172A&height=100&section=footer" width="100%" alt="footer"/>
 
 </div>
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/abdertalibi-gif/abdertalibi-gif/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation"/>
+
+</div>
