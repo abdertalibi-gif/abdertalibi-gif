@@ -1,247 +1,237 @@
-<!--
-================================================================================
-  GitHub Profile — Abderrahim Talibi
-  Master 1 — Sciences des Données et Intelligence Artificielle (SDIA)
-  Université Moulay Ismaïl — Faculté des Sciences de Meknès
-  Meknès, Morocco 🇲🇦
-================================================================================
--->
+<!-- ==============================================================================
+  ELITE GITHUB PROFILE README — ABDERRAHIM TALIBI
+  Repository: abdertalibi-gif / abdertalibi-gif
+  Design Theme: Futuristic AI, Data Science & Robotics [Deep Navy & Electric Cyan]
+  Verified against 100% real repositories & academic background.
+============================================================================== -->
 
-<p align="center">
-  <!-- ===================== Professional Header Banner ===================== -->
-  <img
-    src="https://github-readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=6000&pause=800&color=00D9FF&center=true&vCenter=true&width=760&lines=Abderrahim+Talibi+%F0%9F%93%84;Master+1+SDIA+%7C+Data+Science+%26+AI;Universit%C3%A9+Moulay+Isma%C3%AFl+%2F+Mekn%C3%A8s%2C+Maroc;Artificial+Intelligence+%2F+Data+Science+%2F+Software+Engineering+%2F+Robotics"
-    alt="Animated Header"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <b>Master 1 Student — Sciences des Données et Intelligence Artificielle (SDIA)</b><br>
-  Université Moulay Ismaïl — Faculté des Sciences de Meknès<br>
-  Meknès, Morocco 🇲🇦
-</p>
-
-<p align="center">
+  <!-- Main Cyberpunk AI Vector Banner -->
   <a href="https://github.com/abdertalibi-gif">
-    <img
-      src="https://img.shields.io/badge/GitHub-abdertalibi--gif-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF"
-      alt="GitHub profile"
-    />
+    <img src="assets/header-banner.svg" alt="Abderrahim Talibi — AI & Data Science" width="100%" />
   </a>
-  <a href="https://www.linkedin.com/in/votre-profil-linkedin">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Connect-0B1220?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"
-      alt="LinkedIn"
-    />
-  </a>
-  <a href="mailto:votre-email@exemple.com">
-    <img
-      src="https://img.shields.io/badge/Email-Contact-0B1220?style=for-the-badge&logo=gmail&logoColor=FFFFFF"
-      alt="Email"
-    />
-  </a>
-</p>
+
+  <!-- Animated Real-Time Typing Role Indicator -->
+  <p align="center">
+    <a href="https://github.com/abdertalibi-gif">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1200&color=00F0FF&center=true&vCenter=true&width=700&height=45&lines=AI+%26+Data+Science+Student;Master+SDIA+%40+Universit%C3%A9+Moulay+Isma%C3%AFl;Full-Stack+Developer+%7C+Python+%7C+TypeScript;Robotics+%26+Autonomous+Kinematics+Enthusiast" alt="Typing SVG" />
+    </a>
+  </p>
+
+  <!-- Profile Quick Status Badges -->
+  <p align="center">
+    <a href="https://github.com/abdertalibi-gif?tab=repositories">
+      <img src="https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPER-0B1220?style=for-the-badge&logo=statuspage&logoColor=00F0FF&labelColor=050811" alt="Status Active" />
+    </a>
+    <a href="https://github.com/abdertalibi-gif">
+      <img src="https://img.shields.io/badge/FOCUS-AI_AGENTS_%26_ROBOTICS-0B1220?style=for-the-badge&logo=openai&logoColor=38BDF8&labelColor=050811" alt="Focus AI" />
+    </a>
+    <a href="https://github.com/abdertalibi-gif">
+      <img src="https://komarev.com/ghpvc/?username=abdertalibi-gif&color=00F0FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+    </a>
+  </p>
+
+</div>
 
 ---
 
-## 👋 About Me
+### ⚡ System Identity // About Me
 
-I am a **Master 1 student in Sciences des Données et Intelligence Artificielle (SDIA)** at Université Moulay Ismaïl, Faculté des Sciences de Meknès, Morocco.
+```yaml
+user: "Abderrahim Talibi"
+degree: "Master 1 — Sciences des Données et Intelligence Artificielle (SDIA)"
+institution: "Université Moulay Ismaïl — Faculté des Sciences de Meknès"
+location: "Meknès, Morocco 🇲🇦"
+specialization:
+  - "Machine Learning & Deep Learning"
+  - "Autonomous AI Agents & Auditing"
+  - "Mobile Robot Kinematics & Simulation"
+  - "Full-Stack Software Architecture"
+core_philosophy: "Deterministic engineering over black-box illusions; verifiable code backed by mathematical rigor."
+```
 
-My work sits at the intersection of **Artificial Intelligence**, **Data Science**, **Machine Learning**, **Deep Learning**, **Software Engineering**, **Web Development**, **Computer Vision**, and **Robotics**. I build practical, well-documented projects and maintain a clean, professional GitHub portfolio.
+I am a **Data Science and Artificial Intelligence (SDIA) Master's student** at Université Moulay Ismaïl, Meknès. My engineering focus bridges theoretical artificial intelligence with practical, production-ready software systems and autonomous robotics. 
 
-This profile showcases my verified, real-world work. Every project linked here exists in my public repositories and reflects actual code I have written and maintained.
+Whether developing **agent readiness auditing engines**, architecting **cryptographic QR attendance frameworks** with real-time WebSockets, or implementing **physics-based differential-drive robot kinematics**, I prioritize clean architecture, strict typing, and verifiable software design.
 
 ---
 
-## 🎓 Education
+### 🌟 Featured Projects (Verified Repositories)
 
-<table align="center">
+<table>
   <tr>
-    <td align="center">
-      <b>🎓 Master 1 — SDIA</b><br>
-      Sciences des Données et Intelligence Artificielle<br>
-      Université Moulay Ismaïl — Faculté des Sciences de Meknès<br>
-      Meknès, Morocco 🇲🇦<br>
-      <i>In progress</i>
+    <td width="33.3%" valign="top">
+      <div align="center">
+        <h3>🤖 Agent Readiness Auditor</h3>
+        <p><i>SaaS Engine for AI Agent Discoverability</i></p>
+        <a href="https://github.com/abdertalibi-gif/Agent_readiness_auditor">
+          <img src="https://img.shields.io/badge/View_Repository-00F0FF?style=for-the-badge&logo=github&logoColor=0B1220" alt="Repo Link" />
+        </a>
+      </div>
+      <br/>
+      <b>Core Capabilities:</b>
+      <ul>
+        <li>Crawl public websites with SSRF safety & <code>robots.txt</code> compliance.</li>
+        <li>Executes <b>60+ deterministic checks</b> across 8 structured dimensions (Metadata, Schema.org, HTTP headers, semantic HTML).</li>
+        <li>Calculates 0–100 Agent Readiness Score with grounded LLM reasoning & downloadable PDF audits.</li>
+      </ul>
+      <b>Stack:</b> Python · FastAPI · Next.js 15 · TypeScript · Celery · Docker
     </td>
-    <td align="center">
-      <b>📚 Core Focus Areas</b><br>
-      Artificial Intelligence · Data Science · Machine Learning<br>
-      Deep Learning · Software Engineering · Robotics
+    <td width="33.3%" valign="top">
+      <div align="center">
+        <h3>📱 AttendQR (PFE)</h3>
+        <p><i>Dynamic QR University Attendance System</i></p>
+        <a href="https://github.com/abdertalibi-gif/Qr_code_pfe-">
+          <img src="https://img.shields.io/badge/View_Repository-38BDF8?style=for-the-badge&logo=github&logoColor=0B1220" alt="Repo Link" />
+        </a>
+      </div>
+      <br/>
+      <b>Core Capabilities:</b>
+      <ul>
+        <li>Dynamic cryptographic QR generation with TTL rotation and anti-proxy validation.</li>
+        <li>5-tier Role-Based Access Control (RBAC: Admin, Professor, Student, Department Head, Coordinator).</li>
+        <li>Live attendance streaming over WebSockets (Daphne), ~45 REST endpoints, Flutter mobile client, and full UML/Merise schema.</li>
+      </ul>
+      <b>Stack:</b> Python · Django · DRF · WebSockets · Flutter · PostgreSQL · Docker
+    </td>
+    <td width="33.3%" valign="top">
+      <div align="center">
+        <h3>🦾 Mobile Robot Simulator</h3>
+        <p><i>Differential-Drive Kinematics Engine</i></p>
+        <a href="https://github.com/abdertalibi-gif/robotique">
+          <img src="https://img.shields.io/badge/View_Repository-818CF8?style=for-the-badge&logo=github&logoColor=0B1220" alt="Repo Link" />
+        </a>
+      </div>
+      <br/>
+      <b>Core Capabilities:</b>
+      <ul>
+        <li>Scientific two-wheel differential drive simulation engine with strict physics constraints (&Delta;t = 0.1s, acceleration limits).</li>
+        <li>Separation of engine truth from UI presentation layer.</li>
+        <li>Autonomous obstacle avoidance, objective waypoint navigation, real-time HUD telemetry, and <code>.obs</code>/<code>.pts</code> scenario parsers with JSON/CSV export.</li>
+      </ul>
+      <b>Stack:</b> TypeScript · React · Vite · Telemetry Engines · Kinematics
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠 Technical Skills
+### 🛠 Technical Arsenal
 
-<table align="center">
-  <tr>
-    <td align="center"><b>💻 Programming Languages</b><br>
-    Python · Java · C · JavaScript · TypeScript
-    </td>
-    <td align="center"><b>🤖 AI & Data Science</b><br>
-    TensorFlow · Keras · OpenCV · Pandas · NumPy · Scikit-learn
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>⚙️ Backend</b><br>
-    Django · Django REST Framework · FastAPI · REST API
-    </td>
-    <td align="center"><b>🌐 Frontend</b><br>
-    HTML5 · CSS3 · JavaScript · React · Next.js · Flutter
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🗄 Databases</b><br>
-    PostgreSQL · MySQL · Oracle · SQLite
-    </td>
-    <td align="center"><b>🔧 DevOps & Tools</b><br>
-    Docker · Docker Compose · Git · GitHub · Linux · VS Code · CI/CD
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+#### 💻 Programming Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=00F0FF" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-0B1220?style=for-the-badge&logo=typescript&logoColor=00F0FF" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-0B1220?style=for-the-badge&logo=javascript&logoColor=00F0FF" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-0B1220?style=for-the-badge&logo=openjdk&logoColor=00F0FF" alt="Java" />
+  <img src="https://img.shields.io/badge/C-0B1220?style=for-the-badge&logo=c&logoColor=00F0FF" alt="C" />
+  <img src="https://img.shields.io/badge/Dart-0B1220?style=for-the-badge&logo=dart&logoColor=00F0FF" alt="Dart" />
+  <img src="https://img.shields.io/badge/SQL-0B1220?style=for-the-badge&logo=sqlite&logoColor=00F0FF" alt="SQL" />
+</p>
+
+#### 🧠 Artificial Intelligence & Data Science
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-0B1220?style=for-the-badge&logo=tensorflow&logoColor=38BDF8" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-0B1220?style=for-the-badge&logo=keras&logoColor=38BDF8" alt="Keras" />
+  <img src="https://img.shields.io/badge/OpenCV-0B1220?style=for-the-badge&logo=opencv&logoColor=38BDF8" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-0B1220?style=for-the-badge&logo=scikitlearn&logoColor=38BDF8" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Pandas-0B1220?style=for-the-badge&logo=pandas&logoColor=38BDF8" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-0B1220?style=for-the-badge&logo=numpy&logoColor=38BDF8" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Agent_Readiness-0B1220?style=for-the-badge&logo=openai&logoColor=38BDF8" alt="AI Agents" />
+</p>
+
+#### ⚙️ Backend, Systems & APIs
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-0B1220?style=for-the-badge&logo=fastapi&logoColor=00F0FF" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Django-0B1220?style=for-the-badge&logo=django&logoColor=00F0FF" alt="Django" />
+  <img src="https://img.shields.io/badge/Django_REST_Framework-0B1220?style=for-the-badge&logo=django&logoColor=00F0FF" alt="DRF" />
+  <img src="https://img.shields.io/badge/WebSockets-0B1220?style=for-the-badge&logo=socketdotio&logoColor=00F0FF" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/Celery-0B1220?style=for-the-badge&logo=celery&logoColor=00F0FF" alt="Celery" />
+  <img src="https://img.shields.io/badge/REST_APIs-0B1220?style=for-the-badge&logo=postman&logoColor=00F0FF" alt="REST" />
+</p>
+
+#### 🌐 Frontend & Mobile Engineering
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js_15-0B1220?style=for-the-badge&logo=nextdotjs&logoColor=38BDF8" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React_19-0B1220?style=for-the-badge&logo=react&logoColor=38BDF8" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0B1220?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Flutter-0B1220?style=for-the-badge&logo=flutter&logoColor=38BDF8" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Vite-0B1220?style=for-the-badge&logo=vite&logoColor=38BDF8" alt="Vite" />
+</p>
+
+#### 🗄 Databases, Infrastructure & Robotics
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-0B1220?style=for-the-badge&logo=postgresql&logoColor=818CF8" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-0B1220?style=for-the-badge&logo=mysql&logoColor=818CF8" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-0B1220?style=for-the-badge&logo=redis&logoColor=818CF8" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-0B1220?style=for-the-badge&logo=docker&logoColor=818CF8" alt="Docker" />
+  <img src="https://img.shields.io/badge/Docker_Compose-0B1220?style=for-the-badge&logo=docker&logoColor=818CF8" alt="Docker Compose" />
+  <img src="https://img.shields.io/badge/Git_&_GitHub-0B1220?style=for-the-badge&logo=github&logoColor=818CF8" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-0B1220?style=for-the-badge&logo=linux&logoColor=818CF8" alt="Linux" />
+  <img src="https://img.shields.io/badge/Robot_Kinematics-0B1220?style=for-the-badge&logo=ros&logoColor=818CF8" alt="Kinematics" />
+</p>
+
+</div>
 
 ---
 
-## 🧰 Languages & Tools
+### 📊 Verified Contribution Telemetry
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=FFFFFF" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-0B1220?style=for-the-badge&logo=java&logoColor=FFFFFF" alt="Java" />
-  <img src="https://img.shields.io/badge/C-0B1220?style=for-the-badge&logo=c&logoColor=FFFFFF" alt="C" />
-  <img src="https://img.shields.io/badge/JavaScript-0B1220?style=for-the-badge&logo=javascript&logoColor=FFFFFF" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-0B1220?style=for-the-badge&logo=typescript&logoColor=FFFFFF" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Django-0B1220?style=for-the-badge&logo=django&logoColor=FFFFFF" alt="Django" />
-  <img src="https://img.shields.io/badge/FastAPI-0B1220?style=for-the-badge&logo=fastapi&logoColor=FFFFFF" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/React-0B1220?style=for-the-badge&logo=react&logoColor=FFFFFF" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-0B1220?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Flutter-0B1220?style=for-the-badge&logo=flutter&logoColor=FFFFFF" alt="Flutter" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-0B1220?style=for-the-badge&logo=tensorflow&logoColor=FFFFFF" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Keras-0B1220?style=for-the-badge&logo=keras&logoColor=FFFFFF" alt="Keras" />
-  <img src="https://img.shields.io/badge/OpenCV-0B1220?style=for-the-badge&logo=opencv&logoColor=FFFFFF" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Pandas-0B1220?style=for-the-badge&logo=pandas&logoColor=FFFFFF" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-0B1220?style=for-the-badge&logo=numpy&logoColor=FFFFFF" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Scikit--learn-0B1220?style=for-the-badge&logo=scikitlearn&logoColor=FFFFFF" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0B1220?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-0B1220?style=for-the-badge&logo=mysql&logoColor=FFFFFF" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Docker-0B1220?style=for-the-badge&logo=docker&logoColor=FFFFFF" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-0B1220?style=for-the-badge&logo=git&logoColor=FFFFFF" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-0B1220?style=for-the-badge&logo=linux&logoColor=FFFFFF" alt="Linux" />
-  <img src="https://img.shields.io/badge/VS_Code-0B1220?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF" alt="VS Code" />
-</p>
+  <!-- GitHub Streak Stats (Demolab CDN - verified 200 OK) -->
+  <p align="center">
+    <a href="https://github.com/abdertalibi-gif">
+      <img src="https://streak-stats.demolab.com/?user=abdertalibi-gif&theme=tokyonight&background=0B1220&stroke=00F0FF&ring=00F0FF&fire=00F0FF&currStreakNum=00F0FF&sideNums=38BDF8&dates=94A3B8&hide_border=true" alt="Abderrahim's GitHub Streak" />
+    </a>
+  </p>
+
+  <!-- Repository Quick Summary Table -->
+  <table align="center">
+    <tr>
+      <td align="center"><b>🎓 Academic Status</b><br/>Master 1 SDIA (Data Science & AI)</td>
+      <td align="center"><b>📍 Location</b><br/>Meknès, Morocco 🇲🇦</td>
+      <td align="center"><b>🚀 Primary Languages</b><br/>Python · TypeScript · Dart · C</td>
+    </tr>
+  </table>
+
+</div>
 
 ---
 
-## 🌟 Featured Projects
+### 📐 Software Architecture & Principles
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <b>📱 AttendQR</b><br>
-      <i>QR Code Attendance Management System</i><br>
-      <br>
-      <a href="https://github.com/abdertalibi-gif/Qr_code_pfe-"><b>View on GitHub →</b></a><br>
-      <br>
-      Python · Django · DRF · Flutter · PostgreSQL · Docker
-    </td>
-    <td align="center">
-      <b>🤖 Agent Readiness Auditor</b><br>
-      <i>AI Agent Website Readiness SaaS</i><br>
-      <br>
-      <a href="https://github.com/abdertalibi-gif/Agent_readiness_auditor"><b>View on GitHub →</b></a><br>
-      <br>
-      Next.js 15 · TypeScript · FastAPI · Celery · SQL · Docker
-    </td>
-    <td align="center">
-      <b>🦾 Robot Mobile Simulation</b><br>
-      <i>Differential-drive robot kinematics simulator</i><br>
-      <br>
-      <a href="https://github.com/abdertalibi-gif/robotique"><b>View on GitHub →</b></a><br>
-      <br>
-      TypeScript · React · Vite
-    </td>
-  </tr>
-</table>
-
-> **Note:** Two additional repository names (`projetMrbekri`, `portfolios_me`) exist on my profile but are currently empty. They are not featured until they contain verifiable work.
+- **Deterministic Core Engines:** I separate core computational engines (such as physics loops or audit crawlers) from presentation code, enforcing single sources of truth.
+- **Academic & Software Rigor:** Every major project is engineered with formal architectural artifacts: UML class models, use-case flows, Merise relational modeling, and unit test suites.
+- **SSRF Safety & Security:** Security is built-in by default—dynamic QR cryptographic expiration, rate-limiting, and sanitized external network interactions.
 
 ---
 
-## 📊 GitHub Statistics
+### 📬 Connect & Collaborate
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=abdertalibi-gif&show_icons=true&count_private=true&title_color=00D9FF&text_color=FFFFFF&icon_color=38BDF8&bg_color=0B1220&border_color=14213D"
-    alt="GitHub stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdertalibi-gif&title_color=00D9FF&text_color=FFFFFF&icon_color=38BDF8&bg_color=0B1220&border_color=14213D"
-    alt="Top languages"
-  />
-</p>
+<div align="center">
 
----
+  <p align="center">
+    <a href="https://github.com/abdertalibi-gif">
+      <img src="https://img.shields.io/badge/GitHub-@abdertalibi--gif-0B1220?style=for-the-badge&logo=github&logoColor=00F0FF" alt="GitHub Profile" />
+    </a>
+    <a href="mailto:talibi.abder@gmail.com">
+      <img src="https://img.shields.io/badge/Email-talibi.abder@gmail.com-0B1220?style=for-the-badge&logo=gmail&logoColor=00F0FF" alt="Direct Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/abderrahim-talibi">
+      <img src="https://img.shields.io/badge/LinkedIn-Abderrahim_Talibi-0B1220?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" />
+    </a>
+  </p>
 
-## 🔥 Contribution Activity
+  <p align="center">
+    <i>Open to collaborations on Artificial Intelligence, Machine Learning research, Autonomous Agents, and Robotics simulations.</i>
+  </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=abdertalibi-gif&background=0B1220&stroke=00D9FF&ring=38BDF8&fire=00D9FF&currStreakNum=00D9FF&currStreakText=FFFFFF&sideNums=FFFFFF&sideLabels=38BDF8&dates=FFFFFF&hide_border=true"
-    alt="GitHub streak"
-  />
-</p>
+  <p align="center">
+    <code>[ ABDERRAHIM TALIBI // SYSTEM TERMINAL ACTIVE // 2026 ]</code>
+  </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=abdertalibi-gif&bg_color=0b1220&color=00d9ff&line=38bdf8&point=00d9ff&area=true&hide_border=true&custom_title=GitHub+Contribution+Activity"
-    alt="GitHub contribution graph"
-  />
-</p>
-
-<p align="center">
-  <a href="https://github.com/abdertalibi-gif?tab=repositories">
-    <img
-      src="https://komarev.com/ghpvc/?username=abdertalibi-gif&color=00D9FF&style=for-the-badge&label=Profile+views"
-      alt="Profile views"
-    />
-  </a>
-</p>
-
----
-
-## 🤝 Contact & Social Links
-
-<p align="center">
-  <a href="https://github.com/abdertalibi-gif">
-    <img src="https://img.shields.io/badge/GitHub-abdertalibi--gif-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/votre-profil-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0B1220?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
-  </a>
-  <a href="mailto:votre-email@exemple.com">
-    <img src="https://img.shields.io/badge/Email-Me contacter-0B1220?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email" />
-  </a>
-</p>
-
-<p align="center">
-  📍 Meknès, Morocco 🇲🇦 &nbsp;|&nbsp; 🎓 Master 1 SDIA — Université Moulay Ismaïl
-</p>
-
-<p align="center">
-  <b>Thank you for visiting!</b> ⭐ Feel free to explore my repositories and connect.
-</p>
-
-<!--
-================================================================================
-  End of Profile README — Abderrahim Talibi
-  Visual identity: Navy Blue (#0B1220) · Dark Blue (#14213D) · Cyan (#00D9FF) · Sky Blue (#38BDF8) · White (#FFFFFF)
-  All information verified against public GitHub repositories.
-================================================================================
--->
+</div>
