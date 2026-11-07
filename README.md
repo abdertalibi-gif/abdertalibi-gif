@@ -187,19 +187,23 @@ An academic robotics project focused on mobile robot simulation and intelligent 
 
 <!-- ==================== CONTACT ==================== -->
 
-## 🌐 Let's Connect
+## 📬 Contact Me
 
 <div align="center">
 
-I'm always open to learning opportunities, collaboration, and interesting technology projects.
+<a href="mailto:talibi.abder@gmail.com">
+  <img src="https://img.shields.io/badge/Email-talibi.abder%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="tel:+212605368543">
+  <img src="https://img.shields.io/badge/Phone-%2B212%20605%20368%20543-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
+</a>
 
 <a href="https://github.com/abdertalibi-gif">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/abderrahim-talibi">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-abdertalibi--gif-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
+</div>
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+intelligent.;Keep+Learning.+Keep+Building." alt="Footer animation"/>
