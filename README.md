@@ -1,4 +1,8 @@
-<!-- ========================= -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,35:0F3B63,70:075985,100:06B6D4&text=ABDERREHIM%20TALIBI&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20DATA%20SCIENCE%20%7C%20ROBOTICS&descSize=16&descAlignY=58&animation=twinkling" width="100%" alt="Animated banner"/>
+
+</div><!-- ========================= -->
 <!--         HERO SECTION      -->
 <!-- ========================= -->
 
