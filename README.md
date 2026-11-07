@@ -45,12 +45,12 @@ I'm passionate about transforming ideas into intelligent technological solutions
 
 ## 🎓 Education & Academic Journey
 
-| Academic Degree | Institution | Specialization |
-|:---|:---|:---|
-| **Master 1 (M1)** | Université Moulay Ismaïl – Faculté des Sciences de Meknès | Data Science & Artificial Intelligence |
-| **Licence d'Excellence** | Université Moulay Ismaïl – Faculté des Sciences de Meknès | Sciences des Données et Intelligence Artificielle |
-| **DEUG** | Faculté des Sciences de Meknès | Informatique Appliqué |
-| **Baccalauréat** | Morocco | 2023 |
+| Academic Degree | Institution | Specialization | Graduation Year |
+|:---|:---|:---|:---:|
+| **Master 1 (M1)** | Université Moulay Ismaïl – Faculté des Sciences de Meknès | Data Science & Artificial Intelligence | **Expected 2028** |
+| **Licence d'Excellence** | Université Moulay Ismaïl – Faculté des Sciences de Meknès | Sciences des Données et Intelligence Artificielle | **2026** |
+| **DEUG** | Faculté des Sciences de Meknès | Informatique Appliquée | **2025** |
+| **Baccalauréat** | Morocco | Baccalauréat | **2023** |
 
 ### Academic Focus
 
