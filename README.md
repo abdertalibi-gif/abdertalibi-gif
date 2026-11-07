@@ -166,18 +166,11 @@ An academic robotics project focused on mobile robot simulation and intelligent 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdertalibi-gif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" alt="GitHub statistics"/>
+<img src="https://github-stats-extended.vercel.app/api?username=abdertalibi-gif&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Statistics"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdertalibi-gif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Top languages"/>
-
-<br/><br/>
-
-<img width="80%" src="https://streak-stats.demolab.com?user=abdertalibi-gif&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub streak"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=abdertalibi-gif&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages"/>
 
 </div>
-
----
-
 <!-- ==================== CONTRIBUTION GRAPH ==================== -->
 
 ## 🐍 Contribution Activity
