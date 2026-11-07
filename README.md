@@ -20,7 +20,6 @@
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=abdertalibi-gif&label=PROFILE+VIEWS&color=0891B2&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
