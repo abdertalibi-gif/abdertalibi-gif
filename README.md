@@ -49,7 +49,7 @@ I'm passionate about transforming ideas into intelligent technological solutions
 |:---|:---|:---|
 | **Master 1 (M1)** | Université Moulay Ismaïl – Faculté des Sciences de Meknès | Data Science & Artificial Intelligence |
 | **Licence d'Excellence** | Université Moulay Ismaïl – Faculté des Sciences de Meknès | Sciences des Données et Intelligence Artificielle |
-| **DEUG** | Faculté des Sciences de Meknès | Fundamental Sciences |
+| **DEUG** | Faculté des Sciences de Meknès | Informatique Appliqué |
 | **Baccalauréat** | Morocco | 2023 |
 
 ### Academic Focus
