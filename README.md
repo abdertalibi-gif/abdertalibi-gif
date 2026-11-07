@@ -1,10 +1,10 @@
- <!-- ===================================================== -->
-<!--             ABDERRAHIM TALIBI - GITHUB PROFILE       -->
+<!-- ===================================================== -->
+<!--             ABDERRAHIM TALIBI - GITHUB PROFILE        -->
 <!-- ===================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,35:0C4A6E,70:075985,100:06B6D4&text=ABDERREHIM%20TALIBI&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=ARTIFICIAL%20INTELLIGENCE%20%7C%20DATA%20SCIENCE%20%7C%20ROBOTICS&descSize=14&descAlignY=58&animation=twinkling" alt="Profile banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,35:0C4A6E,70:075985,100:06B6D4&text=ABDERRAHIM%20TALIBI&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=ARTIFICIAL%20INTELLIGENCE%20%7C%20DATA%20SCIENCE%20%7C%20ROBOTICS&descSize=14&descAlignY=58&animation=twinkling" alt="Profile banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Student;Software+Developer;Machine+Learning+Enthusiast;Computer+Vision+%26+Robotics;Building+Intelligent+Solutions" alt="Typing animation"/>
 
@@ -20,7 +20,7 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:06B6D4,100:020617&height=2" alt=""/>
 
 <!-- ==================== ABOUT ME ==================== -->
 
@@ -39,7 +39,7 @@ I'm passionate about transforming ideas into intelligent technological solutions
 
 > "Turning data into intelligence, and ideas into reality."
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:06B6D4,100:020617&height=2" alt=""/>
 
 <!-- ==================== EDUCATION ==================== -->
 
@@ -61,7 +61,7 @@ I'm passionate about transforming ideas into intelligent technological solutions
 - Robotics and Autonomous Systems
 - Software Engineering and Information Systems
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:06B6D4,100:020617&height=2" alt=""/>
 
 <!-- ==================== RESEARCH INTERESTS ==================== -->
 
@@ -86,7 +86,7 @@ My academic and technical interests include:
 - Intelligent Agents & Automation
 - Data Engineering & Analytics
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:06B6D4,100:020617&height=2" alt=""/>
 
 <!-- ==================== TECHNICAL SKILLS ==================== -->
 
@@ -112,7 +112,7 @@ My academic and technical interests include:
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:06B6D4,100:020617&height=2" alt=""/>
 
 <!-- ==================== FEATURED PROJECTS ==================== -->
 
@@ -142,11 +142,11 @@ A project exploring automated assessment of software and AI-agent readiness.
 
 An academic robotics project focused on mobile robot simulation and intelligent navigation concepts.
 
-**Technologies:** Robotics · Simulation · Programming
+**Technologies:** TypeScript · React · Vite · Canvas
 
 [![Repository](https://img.shields.io/badge/Explore_Project-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/abdertalibi-gif/robotique)
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:06B6D4,100:020617&height=2" alt=""/>
 
 <!-- ==================== ACADEMIC ACTIVITIES ==================== -->
 
@@ -158,7 +158,7 @@ An academic robotics project focused on mobile robot simulation and intelligent 
 - Exploration of intelligent robotics and computer vision.
 - Continuous learning through programming and experimentation.
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:06B6D4,100:020617&height=2" alt=""/>
 
 <!-- ==================== GITHUB ANALYTICS ==================== -->
 
@@ -166,24 +166,61 @@ An academic robotics project focused on mobile robot simulation and intelligent 
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=abdertalibi-gif&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abdertalibi-gif&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Statistics"/>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=abdertalibi-gif&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdertalibi-gif&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages"/>
 
 </div>
-<!-- ==================== CONTRIBUTION GRAPH ==================== -->
 
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=abdertalibi-gif&theme=tokyonight&hide_border=true&background=020617&ring=06B6D4&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdertalibi-gif&theme=tokyonight" width="100%" alt="Profile Summary"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=abdertalibi-gif&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="GitHub Trophies"/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:06B6D4,100:020617&height=2" alt=""/>
+
+<!-- ==================== CONTRIBUTION ACTIVITY ==================== -->
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/38BDF8/abdertalibi-gif" alt="Abderrahim Talibi GitHub Contribution Calendar" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdertalibi-gif&theme=tokyo-night&hide_border=true&bg_color=020617&color=38BDF8&line=06B6D4&point=FFFFFF" alt="Abderrahim Talibi GitHub Contribution Activity" width="100%"/>
 
 </div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:06B6D4,100:020617&height=2" alt=""/>
 
----
+<!-- ==================== CONTRIBUTION SNAKE ==================== -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdertalibi-gif/abdertalibi-gif/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdertalibi-gif/abdertalibi-gif/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/abdertalibi-gif/abdertalibi-gif/output/github-snake.svg" alt="Contribution Snake animation" width="100%" />
+</picture>
+
+</div>
+
+> ℹ️ Le serpent s'affiche après le premier passage du workflow `.github/workflows/snake.yml`.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:06B6D4,100:020617&height=2" alt=""/>
 
 <!-- ==================== CONTACT ==================== -->
 
@@ -204,14 +241,15 @@ An academic robotics project focused on mobile robot simulation and intelligent 
 </a>
 
 </div>
-<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+intelligent.;Keep+Learning.+Keep+Building." alt="Footer animation"/>
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+intelligent.;Keep+Learning.+Keep+Building." alt="Footer animation"/>
+</div>
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:075985,100:06B6D4&height=120&section=footer" width="100%" alt="Footer banner"/>
-
-</div>
 
 <!-- ==================== END ==================== -->
